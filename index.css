@@ -1,0 +1,15 @@
+.mainText {
+    margin-top: 209px;
+    font-size: 60px;
+    text-align: center;
+}
+
+.SearchBar {
+    color: silver;
+    width: 500px;
+}
+
+h1 {
+    font-family:initial;
+    color: black;
+}
